@@ -1,0 +1,22 @@
+
+div{
+    /* height: 400px; */
+    width: 600px;
+    border: 1px solid rgb(70, 70, 70);
+    padding: 10px;
+}
+
+#titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #375e97;
+    border-bottom: 2px solid #375e97;
+}
+
+h3{
+    color: #999999;
+}
+
+a{
+   color:#fb6542;
+}
+
